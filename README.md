@@ -1,4 +1,4 @@
-# carrier-strength-mapper
+# Carrier Strength Mapper
 
 ## Introduction
 In today's world, we rely a lot on our phones to stay connected. We have numerous options in the
